@@ -9,4 +9,4 @@ This project hosts test data for [adaptivefiltering](https://github.com/ssciwr/a
 
 ## Download
 
-The data sets are available in [this archive](https://github.com/ssciwr/adaptivefiltering-test-data/releases/download/rolling/data.tar.gz).
+The data sets are available in [this archive](https://github.com/ssciwr/adaptivefiltering-test-data/releases/download/2021-12-14/data.tar.gz).
