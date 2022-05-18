@@ -1,6 +1,6 @@
 # adaptivefiltering-test-data
 
-This project hosts test data for [adaptivefiltering](https://github.com/ssciwr/adaptivefiltering).
+This project hosts test data for [AFWizard](https://github.com/ssciwr/afwizard).
 
 ## Available data sets
 
@@ -14,4 +14,4 @@ This project hosts test data for [adaptivefiltering](https://github.com/ssciwr/a
 
 ## Download
 
-The data sets are available in [this archive](https://github.com/ssciwr/adaptivefiltering-test-data/releases/download/2022-03-02/data.tar.gz).
+The data sets are available in [this archive](https://github.com/ssciwr/afwizard-test-data/releases/download/2022-03-02/data.tar.gz).
